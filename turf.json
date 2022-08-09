@@ -2,7 +2,7 @@
     "reunion": [
         {
             "R1": {
-                "C1": ":horse: 6-12-11-7 :horse:",
+                "C1": ":horse: 0-0-0-0 :horse:",
                 "C2": ":robot: 0-0-0-0 :interrobang:",
                 "C3": ":robot: 0-0-0-0 :interrobang:",
                 "C4": ":robot: 0-0-0-0 :interrobang:",
@@ -58,14 +58,14 @@
         },
         {
             "R5": {
-                "C1": ":robot: 0-0-0-0 :interrobang:",
-                "C2": ":robot: 0-0-0-0 :interrobang:",
-                "C3": ":robot: 0-0-0-0 :interrobang:",
-                "C4": ":robot: 0-0-0-0 :interrobang:",
-                "C5": ":robot: 0-0-0-0 :interrobang:",
-                "C6": ":robot: 0-0-0-0 :interrobang:",
-                "C7": ":robot: 0-0-0-0 :interrobang:",
-                "C8": ":robot: 0-0-0-0 :interrobang:",
+                "C1": ":horse: 4-12-2-3 :horse:",
+                "C2": ":horse: 4-11-10-2-6 :horse:",
+                "C3": ":horse: 12-1-2-8-9-11 :horse:",
+                "C4": ":horse: 3-8-9-1 :horse:",
+                "C5": ":horse: 8-11-13-5 :horse:",
+                "C6": ":horse: 3-12-2-4-5 :horse:",
+                "C7": ":horse: 15-13-12 :horse:",
+                "C8": "::horse: 4-1-2-5-8 :horse:",
                 "C9": ":robot: 0-0-0-0 :interrobang:",
                 "C10": ":robot: 0-0-0-0 :interrobang:"
             }
