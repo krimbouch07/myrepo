@@ -44,14 +44,14 @@
         },
         {
             "R4": {
-                "C1": ":robot: 0-0-0-0 :interrobang:",
-                "C2": ":robot: 0-0-0-0 :interrobang:",
-                "C3": ":robot: 0-0-0-0 :interrobang:",
-                "C4": ":robot: 0-0-0-0 :interrobang:",
-                "C5": ":robot: 0-0-0-0 :interrobang:",
-                "C6": ":robot: 0-0-0-0 :interrobang:",
-                "C7": ":robot: 0-0-0-0 :interrobang:",
-                "C8": ":robot: 0-0-0-0 :interrobang:",
+                "C1": ":horse: 1-2-3 :horse:",
+                "C2": ":horse: 2-5 :horse:",
+                "C3": ":horse: 3-4 :horse:",
+                "C4": ":horse: 5-8-6-4 :horse:",
+                "C5": ":horse: 3-5 :horse:",
+                "C6": ":horse: 7-2-10-1 :horse:",
+                "C7": ":horse: 9-8-2-1 :horse:",
+                "C8": "::horse: 9-6-8-2 :horse:",
                 "C9": ":robot: 0-0-0-0 :interrobang:",
                 "C10": ":robot: 0-0-0-0 :interrobang:"
             }
