@@ -2,14 +2,14 @@
     "reunion": [
         {
             "R1": {
-                "C1": ":horse: 8-4-2 :horse:",
-                "C2": ":horse: 9-8-7 :horse:",
-                "C3": ":horse: 5-1-9-3 :horse:",
-                "C4": ":horse: 6-5-4 :horse:",
-                "C5": ":horse: 4-6-8 :horse:",
-                "C6": ":horse: 6-5-4-13-1 :horse:",
-                "C7": ":horse: 9-1-8 :horse:",
-                "C8": ":horse: 9-5-4-10-16-7-12 :horse:",
+                "C1": ":horse: 9-11 :horse:",
+                "C2": ":horse: 8-7-1-10 :horse:",
+                "C3": ":horse: 5 :horse:",
+                "C4": ":horse: 1-6-11-5 :horse:",
+                "C5": ":horse: 3-13-1-12-2 :horse:",
+                "C6": ":horse: 10-14-12 :horse:",
+                "C7": ":horse: 9-12-3-7 :horse:",
+                "C8": ":horse: 9-5-4-10 :horse:",
                 "C9": ":robot: 0-0-0-0 :interrobang:",
                 "C10": ":robot: 0-0-0-0 :interrobang:"
             }
@@ -58,14 +58,14 @@
         },
         {
             "R5": {
-                "C1": ":horse: 10-14-11-7 :horse:",
-                "C2": ":horse: 7-8-5-2 :horse:",
-                "C3": ":horse: 7-12-9-6 :horse:",
-                "C4": ":horse: 11-12-5-1 :horse:",
-                "C5": ":horse: 12-6-11-8 :horse:",
-                "C6": ":horse: 6-4 :horse:",
-                "C7": ":horse: 2-8-9-5 :horse:",
-                "C8": ":horse: 0-0-0-0 :horse:",
+                "C1": ":horse: 8-6-9 :horse:",
+                "C2": ":horse: 3-5-8-13 :horse:",
+                "C3": ":horse: 10-1-4-6 :horse:",
+                "C4": ":horse: 1-2-10-4 :horse:",
+                "C5": ":horse: 9-1-11-12-10 :horse:",
+                "C6": ":horse: 2-6-10-12-9 :horse:",
+                "C7": ":horse: 7-8-9-5 :horse:",
+                "C8": ":horse: 7-11-1-2 :horse:",
                 "C9": ":robot: 0-0-0-0 :interrobang:",
                 "C10": ":robot: 0-0-0-0 :interrobang:"
             }
